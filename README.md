@@ -25,5 +25,5 @@ Actively seeking opportunities to contribute and grow in a dynamic environment.
 - **Email:** [yuri.polatovsky@yandex.ru](mailto:yuri.polatovsky@yandex.ru)
 - **Telegram:** [y_a_pp](https://t.me/y_a_pp)
 - **Portfolio:**
-   - [Yandex.Practicum DS Projects](https://github.com/y-a-p/ds_portfolio)
-   - [DS workshops](https://github.com/y-a-p/ds_workshops)
+   - [ds_portfolio](https://github.com/y-a-p/ds_portfolio)
+   - [ds workshops](https://github.com/y-a-p/ds_workshops)
