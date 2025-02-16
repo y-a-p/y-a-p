@@ -26,4 +26,4 @@ Actively seeking opportunities to contribute and grow in a dynamic environment.
 - **Telegram:** [y_a_pp](https://t.me/y_a_pp)
 - **Portfolio:**
    - [ds_portfolio](https://github.com/y-a-p/ds_portfolio)
-   - [ds workshops](https://github.com/y-a-p/ds_workshops)
+   - [freelance_ML_projects](https://github.com/y-a-p/ds_workshops)
